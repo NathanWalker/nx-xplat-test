@@ -1,0 +1,8 @@
+{
+  "name": "hr",
+  "type": "angular",
+  "integrations": {
+    "capacitor": {}
+  },
+  "app_id": ""
+}
